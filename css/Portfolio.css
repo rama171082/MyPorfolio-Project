@@ -20,7 +20,7 @@
     /* background-color: #FDCEDF; */
   }
   .gap1{
- padding-top: 300px;
+ padding-top: 200px;
   }
   .gap2{
     padding-top: 100px;
@@ -35,4 +35,10 @@
      font-size: 30px;
      font-family:Georgia, 'Times New Roman', Times, serif;
      height: 650px;
+  }
+  .shadow{
+    margin: 10px;
+    width: 700px;
+    word-wrap: break-word;
+    box-shadow: 0px 0px 20px 10px rgb(136,136,136);
   }
