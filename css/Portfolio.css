@@ -1,0 +1,38 @@
+.header-background {
+    background-color:#2A2F4F;
+    
+  }
+  footer{
+    background-color: #2A2F4F;
+    height: 50px;
+    color: #917FB3;
+     font-size: 20px;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+     display: flex;             
+     flex-direction: row;
+     justify-content:space-around;
+  }
+  body {
+    background-image:url(./bgr5.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    /* background-color: #FDCEDF; */
+  }
+  .gap1{
+ padding-top: 300px;
+  }
+  .gap2{
+    padding-top: 100px;
+     }
+     p{
+     color: #917FB3;
+     font-size: 25px;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+     }
+  .li{
+    color: #917FB3;
+     font-size: 30px;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+     height: 650px;
+  }
